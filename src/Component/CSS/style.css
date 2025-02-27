@@ -90,7 +90,7 @@ body {
     text-align: center;
     padding-top: 57px;
     padding-bottom: 57px;
-    margin-bottom: 10px;
+    margin-bottom: 17px;
 }
 .iphone h2{
     font-size: 56px;
@@ -165,13 +165,13 @@ body {
     display: inline-block;
 }
 .ipadpro{
-    background-image:url(../Image/promo_ipadpro__ch217v9v7no2_large_2x.jpg) ;
+    background-image:url(../Image/hero_iphone16pro_avail__fnf0f9x70jiy_largetall_2x.jpg) ;
     background-position:center top ;
     background-size: cover;
     height:580px;
     text-align: center;
     padding-top: 57px;
-    width: 50%;
+    margin-bottom: 17px;
 }
 .ipadpro h2{
     font-size: 40px;
@@ -211,13 +211,34 @@ body {
 .buy a:hover{
     background-color:#0071e3 ;
 }
+.intellegent{
+    color: white;
+}
 .Macbook{
-    background-image:url(../Image/promo_macbook_air_m3__e43jegok3wuq_large_2x.jpg) ;
+    background-image:url(../Image/hero_iphone16_avail__euwzls69btea_large_2x.jpg) ;
     background-position:center top ;
     background-size: cover;
     height:580px;
     text-align: center;
     padding-top: 57px;
+    margin-bottom: 17px;
+    
+    /* width: 50%; */
+}
+.Macbook h2{
+    font-size: 40px;
+    font-weight: 600px;
+    color: #f5f5f7  
+}
+.ipadpros{
+    background-image:url(../Image/hero_iphone16_avail__euwzls69btea_large_2x.jpg) ;
+    background-position:center top ;
+    background-size: cover;
+    height:580px;
+    text-align: center;
+    padding-top: 57px;
+    margin-bottom: 17px;
+    
     width: 50%;
 }
 .Air h2{
@@ -255,6 +276,7 @@ body {
     padding-top:57px;
     width: 50%;
     color: black;
+    display: inline-block;
     /* align-items: flex-end */
 }
 
